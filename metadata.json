@@ -1,0 +1,8 @@
+{
+  "name": "Tour Eiffel 3 km² — 3D Ink Sketch",
+  "description": "Interactive 3D black-ink architectural sketch of the Eiffel Tower and the surrounding 3 km² of Paris on a pure white studio canvas, enhanced with Google Maps grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
